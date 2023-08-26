@@ -1,0 +1,6 @@
+langchain
+weaviate
+streamlit
+python-dotenv
+openai
+sentence_transformers
